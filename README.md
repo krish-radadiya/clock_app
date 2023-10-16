@@ -1,16 +1,3 @@
-# clock_appp
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![WhatsApp Image 2023-10-16 at 9 46 48 AM](https://github.com/krish-radadiya/clock_app/assets/113992828/49552f09-44f0-4b70-9d2e-b1aaa135b1be)
+![WhatsApp Image 2023-10-16 at 9 46 47 AM](https://github.com/krish-radadiya/clock_app/assets/113992828/1900846a-2c02-493a-a999-b4de876bd91f)
+![WhatsApp Image 2023-10-16 at 9 46 47 AM (1)](https://github.com/krish-radadiya/clock_app/assets/113992828/4dab82b1-0ac1-4a8d-b880-56195e8ae10d)
